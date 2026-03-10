@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "POCLogicAppProj",
+      "path": "./POCLogicAppProj"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.env.windows": {
+      "PATH": "C:\\Users\\francesco.catino\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+      "C:\\Users\\francesco.catino\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
+  }
+}
